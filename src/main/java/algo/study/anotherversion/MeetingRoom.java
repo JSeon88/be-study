@@ -1,12 +1,10 @@
-package algo.study.betterversion;
+package algo.study.anotherversion;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
-import java.util.List;
 
 /**
  * Given an array of meeting time intervals consisting of start and end times [[s1,e1],[s2,e2]..](si < ei)
